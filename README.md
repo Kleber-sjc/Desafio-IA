@@ -5,18 +5,7 @@
 
 # Olá pessoal, Kleber por aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, te convido a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-🎯 Bora Pro Desafio!? 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-
+# 🎯 Bora Pro Desafio!? 💪🤓
 
 # O mundo das IAs Generativas
 
@@ -42,12 +31,6 @@ Criar algo "natty" (natural, autêntico, genuíno) com inteligência artificial 
 Um dos principais desafios é o chamado problema da "sobreajuda" (overfitting), no qual o modelo de IA pode se tornar excessivamente especializado nos dados de treinamento, resultando em uma falta de diversidade e criatividade nos resultados gerados. Isso pode levar à produção de conteúdo que parece artificial ou derivado.
 
 Outro desafio é garantir que o conteúdo gerado pela IA seja culturalmente sensível e socialmente responsável. Como os modelos de IA aprendem com grandes conjuntos de dados, há o risco de perpetuar preconceitos e estereótipos presentes nos dados de treinamento.
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
